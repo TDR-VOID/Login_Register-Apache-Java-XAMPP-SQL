@@ -4,12 +4,17 @@ This Java program was built using the Apache NetBeans IDE. It contains two Java 
 
 <details>
 <summary>XAMPP Control Panel</summary>
-<img src="Screenshots/XAMPP Control Panel.png" alt="XAMPP Control Panel" width="300" />
+<img src="Screenshots/XAMPP Control Panel.png" alt="XAMPP Control Panel" width="400" />
 </details>
 <details>
 <summary>SQL Database(phpMyAdmin)</summary>
-<img src="Screenshots/SQL Database(phpMyAdmin).png" alt="SQL Database(phpMyAdmin)" width="300" />
+<img src="Screenshots/SQL Database(phpMyAdmin).png" alt="SQL Database(phpMyAdmin)" width="500" />
 </details>
+<details>
+<summary>JFrame</summary>
+<img src="Screenshots/JFrame.png" alt="JFrame" width="500" />
+</details>
+
 
 
 [XAMPP Downolad](https://www.apachefriends.org)
