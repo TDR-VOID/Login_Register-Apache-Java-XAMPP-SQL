@@ -12,7 +12,7 @@ This Java program was built using the Apache NetBeans IDE. It contains two Java 
 </details>
 <details>
 <summary>JFrame</summary>
-<img src="Screenshots/JFrame.png" alt="JFrame" width="500" />
+<img src="Screenshots/JFrame.png" alt="JFrame" width="300" />
 </details>
 
 
