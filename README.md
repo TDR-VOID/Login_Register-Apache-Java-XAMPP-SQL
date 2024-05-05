@@ -10,6 +10,7 @@ This Java program was built using the Apache NetBeans IDE. It contains two Java 
 <summary>SQL Database(phpMyAdmin)</summary>
 <img src="Screenshots/SQL Database(phpMyAdmin).png" alt="SQL Database(phpMyAdmin)" width="500" />
 </details>
+<details>
 <summary>JFrame</summary>
 <img src="Screenshots/JFrame.png" alt="JFrame" width="500" />
 </details>
